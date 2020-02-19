@@ -1,0 +1,65 @@
+{
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "meeting_1000000"
+    }],
+    "room": "Figtree11111"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "meeting_9999999"
+    }],
+    "room": "Figtree222222"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "meeting_9999999"
+    }],
+    "room": "Figtree333333"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "meeting_8888888"
+    }],
+    "room": "Figtree44444"
+  },
+  {
+    "reservations": [],
+    "room": "Figtree55555"
+  },
+  {
+    "reservations": [],
+    "room": "Figtree6666"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "meeting_1000000"
+    }],
+    "room": "Figtree7777"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "meeting_1000000"
+    }],
+    "room": "Figtree8888"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "meeting_1000000"
+    }],
+    "room": "Figtree99999"
+  }
+]

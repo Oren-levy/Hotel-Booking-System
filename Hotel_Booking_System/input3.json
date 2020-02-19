@@ -1,0 +1,14 @@
+{ "command": "room", "venue": "Heaven", "room": "Penguin", "size": "small" }
+{ "command": "room", "venue": "Heaven", "room": "Hippo", "size": "large" }
+{ "command": "room", "venue": "Heaven", "room": "Elephant", "size": "large" }
+{ "command": "room", "venue": "Heaven", "room": "Tiger", "size": "medium" }
+
+{ "command": "room", "venue": "Hell", "room": "Devil", "size": "large" }
+{ "command": "room", "venue": "Hell", "room": "Lucifer", "size": "large" }
+{ "command": "room", "venue": "Hell", "room": "Doctor Who", "size": "large" }
+
+{ "command": "request", "id": "Annual Meeting 11111", "start": "2019-01-15", "end": "2019-01-20", "small": 0, "medium": 0, "large": 3 }
+{ "command": "request", "id": "Annual Meeting 22222", "start": "2019-02-15", "end": "2019-02-20", "small": 0, "medium": 0, "large": 3 }
+{ "command": "request", "id": "Annual Meeting 33333", "start": "2019-03-15", "end": "2019-03-20", "small": 0, "medium": 0, "large": 3 }
+{ "command": "request", "id": "Annual Meeting 44444", "start": "2019-04-15", "end": "2019-04-20", "small": 0, "medium": 0, "large": 3 }
+{ "command": "request", "id": "Annual Meeting 55555", "start": "2019-04-20", "end": "2019-04-25", "small": 0, "medium": 0, "large": 3 }

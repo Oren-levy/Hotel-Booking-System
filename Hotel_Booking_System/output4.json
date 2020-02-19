@@ -1,0 +1,34 @@
+{"venue":"Zoo","rooms":["Zoo11111","Zoo22222","Zoo33333","Zoo44444","Zoo5555","Zoo6666","Zoo7777","Zoo8888","Zoo99999"],"status":"success"}
+{"venue":"Gardens","rooms":["Figtree11111","Figtree222222","Figtree333333","Figtree44444","Figtree55555","Figtree6666","Figtree7777","Figtree8888","Figtree99999"],"status":"success"}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Zoo11111",
+    "Zoo22222",
+    "Zoo33333",
+    "Zoo44444",
+    "Zoo5555",
+    "Zoo6666",
+    "Zoo7777",
+    "Zoo8888",
+    "Zoo99999"
+  ],
+  "status": "success"
+}
+{"status":"rejected"}
+{"venue":"Zoo","rooms":["Zoo11111","Zoo22222","Zoo33333","Zoo7777"],"status":"success"}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Zoo11111",
+    "Zoo22222",
+    "Zoo33333",
+    "Zoo44444",
+    "Zoo5555",
+    "Zoo6666",
+    "Zoo7777",
+    "Zoo8888",
+    "Zoo99999"
+  ],
+  "status": "success"
+}
