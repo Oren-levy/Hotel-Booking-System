@@ -6,7 +6,7 @@ In this venue hire system, customers can make, change and cancel reservations. E
 
 The implementation inputs and outputs data in the JSON format. It will read from STDIN (System.in in Java) and output to STDOUT (System.out in Java). The input will be a series of JSON objects, each containing a single command (on its own line). After reading in a JSON object, the implementation will immediately process that command; i.e. it will not wait for all commands to be input before acting on them. 
 
-The commands are as follows:
+#The commands are as follows:
 
 Specify that venue venue has a room with name room of size size.
 { "command": "room", "venue": venue, "room": room, "size": size }
@@ -27,7 +27,7 @@ Cancel reservation id and free up rooms
 List the occupancy of each room in the venue venue
 { "command": "list", "venue": venue }
 
-This is a concrete example input demonstrating the commands supported (comments are for explanation and should not appear in the actual input):
+#This is a concrete example input demonstrating the commands supported (comments are for explanation and should not appear in the actual input):
 
 Venue Zoo has the Penguin room which is small
 { "command": "room", "venue": "Zoo", "room": "Penguin", "size": "small" }
